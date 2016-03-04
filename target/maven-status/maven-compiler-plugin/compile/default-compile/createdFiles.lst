@@ -1,0 +1,7 @@
+br/com/clientes/ClientesApplication.class
+br/com/clientes/ServletInitializer.class
+br/com/clientes/entities/Cliente.class
+br/com/clientes/repository/filter/ClienteFilter.class
+br/com/clientes/repository/ClienteRepository.class
+br/com/clientes/controller/ClienteController.class
+br/com/clientes/service/ClienteService.class
